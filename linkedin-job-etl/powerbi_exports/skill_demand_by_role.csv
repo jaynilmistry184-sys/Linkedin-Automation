@@ -1,0 +1,5 @@
+﻿standardized_role,Python,R,SQL,Power BI,Tableau,Looker,Excel,Google Sheets,SAS,ETL,Airflow dbt,Big Data,Cloud,Git,Statistics,Machine Learning,Data Viz
+BI Developer,20.0,0.0,20.0,60.0,40.0,20.0,0.0,0.0,0.0,40.0,0.0,0.0,40.0,0.0,0.0,20.0,20.0
+Business Analyst,20.0,0.0,60.0,10.0,10.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,0.0
+Data Analyst,22.2,11.1,55.6,55.6,44.4,33.3,44.4,11.1,0.0,22.2,11.1,11.1,33.3,0.0,55.6,0.0,33.3
+Other Analytical Role,40.0,0.0,80.0,40.0,20.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,40.0,20.0,0.0,40.0,20.0

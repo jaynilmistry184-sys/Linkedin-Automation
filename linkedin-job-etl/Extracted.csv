@@ -1,0 +1,66 @@
+job_id,standardized_role,company_name,seniority_level,city,posted_date,Skill
+4465517611,Other Analytical Role,WSP in India,Not Specified,Mumbai,17-11-2026,Python
+4483662496,Other Analytical Role,Priceline,Not Specified,Mumbai,18-11-2026,Python
+4490852142,Business Analyst,Qube Research & Technologies,Mid-Senior level,Mumbai,18-11-2026,Python
+4490858636,Business Analyst,IndusInd Bank,Mid-Senior level,Mumbai,18-11-2026,Python
+4490868434,Data Analyst,Kotak Mahindra Bank,Not Specified,Mumbai Metropolitan Region,18-11-2026,Python
+4492014673,BI Developer,Neve Jewels Group - India,Associate,Mumbai,18-11-2026,Python
+4492061782,Data Analyst,Mondelēz International,Not Specified,Mumbai Metropolitan Region,18-11-2026,Python
+4211051363,Other Analytical Role,SS&C Technologies,Not Specified,Navi Mumbai,14-11-2026,SQL
+4465517611,Other Analytical Role,WSP in India,Not Specified,Mumbai,17-11-2026,SQL
+4474384855,Data Analyst,Etraveli Group,Not Specified,Mumbai,13-11-2026,SQL
+4483584534,Data Analyst,PivotRoots,Not Specified,Mumbai Metropolitan Region,17-11-2026,SQL
+4483662496,Other Analytical Role,Priceline,Not Specified,Mumbai,18-11-2026,SQL
+4484098321,Business Analyst,BNP Paribas,Not Specified,Mumbai,18-11-2026,SQL
+4485331649,Data Analyst,State Street,Not Specified,Mumbai Metropolitan Region,17-11-2026,SQL
+4489859013,Business Analyst,IRIS Business Services Limited,Mid-Senior level,Navi Mumbai,14-11-2026,SQL
+4490750481,Other Analytical Role,Accenture in India,Not Specified,Mumbai Metropolitan Region,13-11-2026,SQL
+4490852142,Business Analyst,Qube Research & Technologies,Mid-Senior level,Mumbai,18-11-2026,SQL
+4490858636,Business Analyst,IndusInd Bank,Mid-Senior level,Mumbai,18-11-2026,SQL
+4490868434,Data Analyst,Kotak Mahindra Bank,Not Specified,Mumbai Metropolitan Region,18-11-2026,SQL
+4491143568,Business Analyst,Luxoft,Mid-Senior level,Mumbai,17-11-2026,SQL
+4491586355,Business Analyst,Intertek India,Not Specified,Mumbai,18-11-2026,SQL
+4492014673,BI Developer,Neve Jewels Group - India,Associate,Mumbai,18-11-2026,SQL
+4492061782,Data Analyst,Mondelēz International,Not Specified,Mumbai Metropolitan Region,18-11-2026,SQL
+4211051363,Other Analytical Role,SS&C Technologies,Not Specified,Navi Mumbai,14-11-2026,Power BI
+4465517611,Other Analytical Role,WSP in India,Not Specified,Mumbai,17-11-2026,Power BI
+4474384855,Data Analyst,Etraveli Group,Not Specified,Mumbai,13-11-2026,Power BI
+4483584534,Data Analyst,PivotRoots,Not Specified,Mumbai Metropolitan Region,17-11-2026,Power BI
+4489855738,BI Developer,TECEZE,Mid-Senior level,Mumbai,14-11-2026,Power BI
+4490858636,Business Analyst,IndusInd Bank,Mid-Senior level,Mumbai,18-11-2026,Power BI
+4490868434,Data Analyst,Kotak Mahindra Bank,Not Specified,Mumbai Metropolitan Region,18-11-2026,Power BI
+4491151885,Data Analyst,Pioneer Management Consultant Pvt Ltd,Mid-Senior level,Mumbai,17-11-2026,Power BI
+4492014673,BI Developer,Neve Jewels Group - India,Associate,Mumbai,18-11-2026,Power BI
+4492061782,Data Analyst,Mondelēz International,Not Specified,Mumbai Metropolitan Region,18-11-2026,Power BI
+4492917572,BI Developer,"GXO Logistics, Inc.",Not Specified,Mumbai,20-11-2026,Power BI
+4474384855,Data Analyst,Etraveli Group,Not Specified,Mumbai,13-11-2026,Tableau
+4483584534,Data Analyst,PivotRoots,Not Specified,Mumbai Metropolitan Region,17-11-2026,Tableau
+4483662496,Other Analytical Role,Priceline,Not Specified,Mumbai,18-11-2026,Tableau
+4489855738,BI Developer,TECEZE,Mid-Senior level,Mumbai,14-11-2026,Tableau
+4490858636,Business Analyst,IndusInd Bank,Mid-Senior level,Mumbai,18-11-2026,Tableau
+4490868434,Data Analyst,Kotak Mahindra Bank,Not Specified,Mumbai Metropolitan Region,18-11-2026,Tableau
+4492014673,BI Developer,Neve Jewels Group - India,Associate,Mumbai,18-11-2026,Tableau
+4492061782,Data Analyst,Mondelēz International,Not Specified,Mumbai Metropolitan Region,18-11-2026,Tableau
+4474384855,Data Analyst,Etraveli Group,Not Specified,Mumbai,13-11-2026,Excel
+4490858636,Business Analyst,IndusInd Bank,Mid-Senior level,Mumbai,18-11-2026,Excel
+4490868434,Data Analyst,Kotak Mahindra Bank,Not Specified,Mumbai Metropolitan Region,18-11-2026,Excel
+4491151885,Data Analyst,Pioneer Management Consultant Pvt Ltd,Mid-Senior level,Mumbai,17-11-2026,Excel
+4492061782,Data Analyst,Mondelēz International,Not Specified,Mumbai Metropolitan Region,18-11-2026,Excel
+4211051363,Other Analytical Role,SS&C Technologies,Not Specified,Navi Mumbai,14-11-2026,ETL
+4465517611,Other Analytical Role,WSP in India,Not Specified,Mumbai,17-11-2026,ETL
+4490868434,Data Analyst,Kotak Mahindra Bank,Not Specified,Mumbai Metropolitan Region,18-11-2026,ETL
+4492014673,BI Developer,Neve Jewels Group - India,Associate,Mumbai,18-11-2026,ETL
+4492061782,Data Analyst,Mondelēz International,Not Specified,Mumbai Metropolitan Region,18-11-2026,ETL
+4492917572,BI Developer,"GXO Logistics, Inc.",Not Specified,Mumbai,20-11-2026,ETL
+4211051363,Other Analytical Role,SS&C Technologies,Not Specified,Navi Mumbai,14-11-2026,Cloud
+4465517611,Other Analytical Role,WSP in India,Not Specified,Mumbai,17-11-2026,Cloud
+4485331649,Data Analyst,State Street,Not Specified,Mumbai Metropolitan Region,17-11-2026,Cloud
+4490868434,Data Analyst,Kotak Mahindra Bank,Not Specified,Mumbai Metropolitan Region,18-11-2026,Cloud
+4492014673,BI Developer,Neve Jewels Group - India,Associate,Mumbai,18-11-2026,Cloud
+4492061782,Data Analyst,Mondelēz International,Not Specified,Mumbai Metropolitan Region,18-11-2026,Cloud
+4492917572,BI Developer,"GXO Logistics, Inc.",Not Specified,Mumbai,20-11-2026,Cloud
+4457487545,Data Analyst,IDFC FIRST Bank,Not Specified,Mumbai,19-11-2026,Statistics
+4467181650,Data Analyst,FedEx,Not Specified,Mumbai Metropolitan Region,20-11-2026,Statistics
+4483584534,Data Analyst,PivotRoots,Not Specified,Mumbai Metropolitan Region,17-11-2026,Statistics
+4490868434,Data Analyst,Kotak Mahindra Bank,Not Specified,Mumbai Metropolitan Region,18-11-2026,Statistics
+4492087237,Data Analyst,FedEx,Not Specified,Mumbai Metropolitan Region,18-11-2026,Statistics
